@@ -48,28 +48,28 @@ Most of what is here is competition robotics and the tooling around it: autonomy
 
 ### Selected work
 
-**[Robocup-Junior-simulation](https://github.com/shayan2008/Robocup-Junior-simulation)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+**[Robocup-Junior-simulation](https://github.com/shayan2008/Robocup-Junior-simulation)**<br>
+<img src="https://img.shields.io/github/languages/top/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit"><br>
 A.R.I.A., Team Kavosh Senior's autonomous rescue agent for RoboCupJunior Rescue Simulation. Webots controller in Python: victim classification, wall mapping, GPS/IMU odometry.
 
-**[Rescue_Maze_robocup](https://github.com/shayan2008/Rescue_Maze_robocup)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+**[Rescue_Maze_robocup](https://github.com/shayan2008/Rescue_Maze_robocup)**<br>
+<img src="https://img.shields.io/github/languages/top/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit"><br>
 Full Rescue Maze entry. YOLO11 victim-marker detection with clustering, tracking and dwell-based counting, plus robot circuit, CAD and the team description paper.
 
-**[greek.v9i.yolov11](https://github.com/shayan2008/greek.v9i.yolov11)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/repo-size/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Repo size">
+**[greek.v9i.yolov11](https://github.com/shayan2008/greek.v9i.yolov11)**<br>
+<img src="https://img.shields.io/github/languages/top/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/repo-size/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Repo size"><br>
 Custom YOLO11 dataset and training runs for rescue-maze hazard markers (omega, phi, psi).
 
-**[DRC-Explorer](https://github.com/shayan2008/DRC-Explorer)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/DRC-Explorer?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/DRC-Explorer?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+**[DRC-Explorer](https://github.com/shayan2008/DRC-Explorer)**<br>
+<img src="https://img.shields.io/github/last-commit/shayan2008/DRC-Explorer?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit"><br>
 Exploration robot for the FIRA DRC Explorer challenge. A* pathfinding over a colour-tile grid with gyro-assisted turning and an arm for cube handling.
 
-**[Lanelab.studio](https://github.com/shayan2008/Lanelab.studio)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+**[Lanelab.studio](https://github.com/shayan2008/Lanelab.studio)**<br>
+<img src="https://img.shields.io/github/languages/top/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit"><br>
 LaneLab: practice planning, race analysis and AI coaching for swimmers. Next.js and React 19 on Cloudflare Workers and D1, with Gemini.
 
-**[Calculus-Optimization-of-200-Free](https://github.com/shayan2008/Calculus-Optimization-of-200-Free)**
-<img src="https://img.shields.io/github/languages/top/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+**[Calculus-Optimization-of-200-Free](https://github.com/shayan2008/Calculus-Optimization-of-200-Free)**<br>
+<img src="https://img.shields.io/github/languages/top/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit"><br>
 Streamlit model of the 200 m freestyle: underwater velocity decay, D-prime reserve and a lactate proxy, fitted to a target time or to real splits.
 
 ---
