@@ -7,12 +7,15 @@
 
 <p align="center">
   <a href="https://mecha-tek.com"><img src="https://img.shields.io/badge/Portfolio-mecha--tek.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://lanelab.studio"><img src="https://img.shields.io/badge/Building-LaneLab-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="LaneLab"></a>
+  <a href="https://lanelab.studio"><img src="https://img.shields.io/badge/Building-LaneLab-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="LaneLab"></a>
   <a href="https://www.linkedin.com/in/shayan-doroudiani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayan2008&label=Profile%20views&color=0EA5E9&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/shayan2008?style=flat-square&color=0EA5E9&labelColor=161B22&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/shayan2008?affiliations=OWNER&style=flat-square&color=0EA5E9&labelColor=161B22" alt="Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshayan2008&query=%24.public_repos&label=repos&style=flat-square&color=0EA5E9&labelColor=161B22" alt="Public repos">
+  <img src="https://komarev.com/ghpvc/?username=shayan2008&label=views&color=0EA5E9&style=flat-square" alt="Profile views">
 </p>
 
 ---
@@ -27,46 +30,47 @@ Most of what is here is competition robotics and the tooling around it: autonomy
 
 ### Tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,react,nextjs,tailwind,nodejs,opencv,arduino,raspberrypi,cloudflare,git,github,linux,docker,figma&perline=9" alt="Tech stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,react,nextjs,tailwind,nodejs&perline=10" alt="Languages and web">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,arduino,raspberrypi,cloudflare,docker,linux,git,github,figma&perline=10" alt="ML, hardware and tooling">
 </p>
 
 | Area | In practice |
 | :-- | :-- |
-| Robotics and autonomy | Autonomous navigation, SLAM-style mapping, victim detection, competition scoring treated as an optimisation target |
+| Robotics and autonomy | Autonomous navigation, occupancy mapping, victim detection, competition scoring treated as an optimisation target |
 | Computer vision and ML | YOLO11 training on custom Roboflow datasets, OpenCV and MediaPipe pipelines, real-time tracking |
 | Embedded and electronics | STM32, ESP32, Arduino, sensor fusion, motor control, PID, PCB design in Altium |
 | Software | Python, C++, C, Java, TypeScript / React, Cloudflare Workers and D1 |
 
 ---
 
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan2008&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan2008&layout=compact&langs_count=8&hide_border=true&title_color=0EA5E9&theme=transparent" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan2008&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=transparent" alt="Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayan2008&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies">
-</p>
-
----
-
 ### Selected work
 
-| Project | What it is |
-| :-- | :-- |
-| **[Robocup-Junior-simulation](https://github.com/shayan2008/Robocup-Junior-simulation)** | A.R.I.A., Team Kavosh Senior's autonomous rescue agent for RoboCupJunior Rescue Simulation. Webots controller in Python: victim classification, wall mapping, GPS/IMU odometry. |
-| **[Rescue_Maze_robocup](https://github.com/shayan2008/Rescue_Maze_robocup)** | Full Rescue Maze entry. YOLO11 victim-marker detection with clustering, tracking and dwell-based counting, plus robot circuit, CAD and the team description paper. |
-| **[greek.v9i.yolov11](https://github.com/shayan2008/greek.v9i.yolov11)** | Custom YOLO11 dataset and training runs for rescue-maze hazard markers (omega, phi, psi). |
-| **[DRC-Explorer](https://github.com/shayan2008/DRC-Explorer)** | Exploration robot for the FIRA DRC Explorer challenge. A* pathfinding over a colour-tile grid with gyro-assisted turning and an arm for cube handling. |
-| **[Lanelab.studio](https://github.com/shayan2008/Lanelab.studio)** | LaneLab: practice planning, race analysis and AI coaching for swimmers. Next.js and React 19 on Cloudflare Workers and D1, with Gemini. |
-| **[Calculus-Optimization-of-200-Free](https://github.com/shayan2008/Calculus-Optimization-of-200-Free)** | Streamlit model of the 200 m freestyle: underwater velocity decay, D-prime reserve and a lactate proxy, fitted to a target time or to real splits. |
+**[Robocup-Junior-simulation](https://github.com/shayan2008/Robocup-Junior-simulation)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Robocup-Junior-simulation?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+A.R.I.A., Team Kavosh Senior's autonomous rescue agent for RoboCupJunior Rescue Simulation. Webots controller in Python: victim classification, wall mapping, GPS/IMU odometry.
+
+**[Rescue_Maze_robocup](https://github.com/shayan2008/Rescue_Maze_robocup)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Rescue_Maze_robocup?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+Full Rescue Maze entry. YOLO11 victim-marker detection with clustering, tracking and dwell-based counting, plus robot circuit, CAD and the team description paper.
+
+**[greek.v9i.yolov11](https://github.com/shayan2008/greek.v9i.yolov11)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/repo-size/shayan2008/greek.v9i.yolov11?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Repo size">
+Custom YOLO11 dataset and training runs for rescue-maze hazard markers (omega, phi, psi).
+
+**[DRC-Explorer](https://github.com/shayan2008/DRC-Explorer)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/DRC-Explorer?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/DRC-Explorer?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+Exploration robot for the FIRA DRC Explorer challenge. A* pathfinding over a colour-tile grid with gyro-assisted turning and an arm for cube handling.
+
+**[Lanelab.studio](https://github.com/shayan2008/Lanelab.studio)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Lanelab.studio?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+LaneLab: practice planning, race analysis and AI coaching for swimmers. Next.js and React 19 on Cloudflare Workers and D1, with Gemini.
+
+**[Calculus-Optimization-of-200-Free](https://github.com/shayan2008/Calculus-Optimization-of-200-Free)**
+<img src="https://img.shields.io/github/languages/top/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Top language"> <img src="https://img.shields.io/github/last-commit/shayan2008/Calculus-Optimization-of-200-Free?style=flat-square&color=0EA5E9&labelColor=161B22" alt="Last commit">
+Streamlit model of the 200 m freestyle: underwater velocity decay, D-prime reserve and a lactate proxy, fitted to a target time or to real splits.
 
 ---
 
@@ -85,5 +89,5 @@ Most of what is here is competition robotics and the tooling around it: autonomy
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayan2008&hide_border=true&color=0EA5E9&line=0EA5E9&point=0EA5E9&area=true&bg_color=00000000" alt="Activity graph">
+  <i>Toronto, Canada</i> &nbsp;·&nbsp; <a href="https://mecha-tek.com">mecha-tek.com</a> &nbsp;·&nbsp; <a href="https://lanelab.studio">lanelab.studio</a>
 </p>
