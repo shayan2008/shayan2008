@@ -89,5 +89,15 @@ Streamlit model of the 200 m freestyle: underwater velocity decay, D-prime reser
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shayan2008/shayan2008/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shayan2008/shayan2008/output/snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/shayan2008/shayan2008/output/snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
   <i>Toronto, Canada</i> &nbsp;·&nbsp; <a href="https://mecha-tek.com">mecha-tek.com</a> &nbsp;·&nbsp; <a href="https://lanelab.studio">lanelab.studio</a>
 </p>
